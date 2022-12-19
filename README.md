@@ -4,7 +4,6 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 
 ## Linear Regression to Predict MPG
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-![image](https://user-images.githubusercontent.com/109333158/208361229-d7757849-3415-4434-941d-1927dd9a5ae5.png)
 ![image](https://user-images.githubusercontent.com/109333158/208361253-b2f46520-0153-4db1-a068-562b189de0dd.png)
 Base on the Linear regression model above, spooiler_angle provided a non-random amount of variance to the mpg values.
 
