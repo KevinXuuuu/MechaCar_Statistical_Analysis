@@ -9,6 +9,7 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 Base on the Linear regression model above, spooiler_angle provided a non-random amount of variance to the mpg values.
 
 ### Is the slope of the linear model considered to be zero? Why or why not?
+The slope of the Liner model is not considered to be zero, although it is 5.08e-8 very close to 0, but it is not zero.
 
 ### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
