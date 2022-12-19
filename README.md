@@ -30,8 +30,8 @@ No, this linear model does not predict mpg of MechaCar prototypes effectively, b
 
 ### What metric or metrics are you going to test?
 
-What is the null hypothesis or alternative hypothesis?
+### What is the null hypothesis or alternative hypothesis?
 
-What statistical test would you use to test the hypothesis? And why?
+### What statistical test would you use to test the hypothesis? And why?
 
-What data is needed to run the statistical test?
+### What data is needed to run the statistical test?
