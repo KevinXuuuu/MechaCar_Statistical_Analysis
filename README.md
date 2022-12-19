@@ -30,13 +30,18 @@ Base on the t-test result, we know that 95% confidence interval is between 1497.
 
 ## Study Design: MechaCar vs Competition
 ### Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+Other than the mpg analysis above, I truly believe we could do statistical study on how vehicle height 0 to 60 speed.
 
 ### In your description, address the following questions:
 
 ### What metric or metrics are you going to test?
+I am going to test 0-60 miles time.
 
 ### What is the null hypothesis or alternative hypothesis?
+Will vehicle height affect 0-60 speed?
 
 ### What statistical test would you use to test the hypothesis? And why?
+I will use linear regression and t-test to test the hypothesis, These two statistical test would tell me does these data have any correlation to 0-60 speed.
 
 ### What data is needed to run the statistical test?
+We are going to need data for these 4 variable, vehicle height, spoiler angle, chassis height and 0-60 time in second.
