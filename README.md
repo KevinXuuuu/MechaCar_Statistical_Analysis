@@ -16,11 +16,13 @@ The slope of the Liner model is not considered to be zero, although it is 5.08e-
 No, this linear model does not predict mpg of MechaCar prototypes effectively, because it corrlation is low. 
 
 ## Summary Statistics on Suspension Coil
-### write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
-
+### Write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+![image](https://user-images.githubusercontent.com/109333158/208363073-3bdc6e34-d2cf-42d9-adb6-6d750d533c14.png)
+![image](https://user-images.githubusercontent.com/109333158/208363117-4845f38f-2ff5-4766-a212-d9f853122ca0.png)
+Base on total_summary and Lot_summary dataframes above, the variance is 62.29356 which is smaller than 100 pounds per square inch, the current manufacturing data meet this design specification for all manufacturing lots in total but not individually.Lot 3 failed the design specification.
 
 ## T-Tests on Suspension Coils
-### summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+### Summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
 ## Study Design: MechaCar vs Competition
 
