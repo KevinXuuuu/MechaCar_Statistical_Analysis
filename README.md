@@ -9,15 +9,14 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 Base on the Linear regression model above, spooiler_angle provided a non-random amount of variance to the mpg values.
 
 ### Is the slope of the linear model considered to be zero? Why or why not?
-The slope of the Liner model is not considered to be zero, although it is 5.08e-8 very close to 0, but it is not zero.
+The slope of the Liner model is not considered to be zero, although it is 5.08e-08 very close to 0, but it is not 0.
+0 means that thet have absoulutely no correlation between each other, but 5.08e-08 mean that they do have some kind of affect on mpg.
 
 ### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-
+No, this linear model does not predict mpg of MechaCar prototypes effectively, because it corrlation is low. 
 
 ## Summary Statistics on Suspension Coil
-### write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
-
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+### write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 
 ## T-Tests on Suspension Coils
